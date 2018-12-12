@@ -14,7 +14,7 @@ Boilerplate to start a new React.JS App build with Parcel.JS
 ## Setup
 
 ```
-git clone git@github.com:hanno-drefke/react-parcel-boilerplate.git
+git clone git@github.com:hannodrefke/react-parcel-boilerplate.git
 
 cd react-parcel-boilerplate
 
